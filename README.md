@@ -1,22 +1,21 @@
 <h1 align="left">Hallo! 👋 What's up?</h1>
 
-###
+
 
 <p align="left">My name is Wachid and I'm a Sefl-Taught Front-End Developer and UI/UX Designer, from Yogyakarta, Indonesia</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">I'm a **Front-end Developer** and **UI/UX Designer** passionate about creating beautiful, user-friendly, and responsive web experiences. I love turning ideas into pixel-perfect designs and bringing them to life with code.</p>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,4 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
