@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hallo! I'm Wachid👋
+
+I'm a **Front-end Developer** and **UI/UX Designer** passionate about creating beautiful, user-friendly, and responsive web experiences. I love turning ideas into pixel-perfect designs and bringing them to life with code.
 
 <!--
 **wachidmuslih/wachidmuslih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
