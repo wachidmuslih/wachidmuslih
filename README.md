@@ -1,5 +1,5 @@
 <h1 align="left">Hallo! 👋 What's up?</h1>
-<p align="left">My name is Wachid and I'm a $${\color{white}Self-Taught \space Front-End \space Developer}$$ and $${\color{white}UI/UX \space Designer}$$, from Yogyakarta, Indonesia. I'm passionate about creating beautiful, user-friendly, and responsive web experiences. I love turning ideas into pixel-perfect designs and bringing them to life with code.</p>
+<p align="left">My name is Wachid and I'm a $${\color{white}Self-Taught \space Front-End \space Developer}$$, $${\color{white}Self-Taught \space Quality \space Assurance}$$, and $${\color{white}UI/UX \space Designer}$$, from Yogyakarta, Indonesia. I'm passionate about creating beautiful, user-friendly, and responsive web experiences. I love turning ideas into pixel-perfect designs and bringing them to life with code.</p>
 
 ### I code with:
 <div align="left">
